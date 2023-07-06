@@ -20,5 +20,4 @@
 
  [<img src="./gis/gif-do-drag.gif" alt="gif do dragao">]
   
-  ![Snake animation](https://github.com/gustavotroffer/gustavotroffer/blob/output/github-contribution-grid-snake.svg)
 </div>
